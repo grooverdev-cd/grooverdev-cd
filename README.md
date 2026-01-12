@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Fullstack developer specialize in Spring Boot, .NET Core, PostgreSQL, SQL Server, MongoDB, Debian and Angular/VueJS frameworks and React. Thus, manage CI/CD tools like Jenkins Github Actions and others
+# 💫 About Grooverdev:
+I'm Fullstack developer specialize in Spring Boot, .NET Core, PostgreSQL, SQL Server, MongoDB, Debian and Angular/VueJS frameworks and React. Thus, manage CI/CD tools like Jenkins Github Actions and others. CEO at Grooverdev Training & development, an enterprise dedicated to training in technologies for the development of business applications, as well as the development of custom software, thus satisfying the needs of both companies and individuals by providing quality solutions.
 
 
 ## 🌐 Socials:
